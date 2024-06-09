@@ -1,2 +1,2 @@
 # PRODIGY_DS_01
-Distribution of age and gender in a population
+This project aims to analyze the distribution of age and gender in a population using Python. Its goal, therefore, is to reveal certain characteristics about populations that can then be used in fields like marketing, government policy-making or sociology. To ensure that insights are valid, it harnesses various external Python packages for processing datasets, statistics display and more human-like data handling.
